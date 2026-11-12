@@ -1,5 +1,7 @@
 # 平行世界 · Parallel World Labs
 
+[English](https://github.com/ParallelWorldLabs/.github/blob/main/profile/README.en.md)
+
 平行世界在建设一套面向真实团体工作的 AI 运营体系。我们把真实团体运营的业务工作拆成有明确目标、权限和验收标准的数字岗位，让 AI Agent 在授权下与真实人员平行执行，并留下可核对的业务记录。
 
 ## 项目方向
